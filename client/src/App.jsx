@@ -6,8 +6,8 @@ import Options from "./components/Options";
 const App = () => {
   return (
     <div className="bg-sky-400 min-h-screen space-y-10">
-      <AppBar position="static" color="inherit">
-        <Typography className="bg-sky-600" variant="h2" align="center">
+      <AppBar position="static" color="primary">
+        <Typography variant="h2" align="center">
           Connect
         </Typography>
       </AppBar>
